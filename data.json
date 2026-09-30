@@ -1,0 +1,241 @@
+{
+ "generated": "2026-09-30T08:34:00-04:00",
+ "saved": "2026-09-30T08:34:00-04:00",
+ "source": "Metricool brand 3827890 (spend); Supermetrics Google Ads + TikTok (audience)",
+ "ranges": {
+  "yesterday": {
+   "from": "2026-09-29",
+   "to": "2026-09-29",
+   "meta": [
+    {
+     "name": "FPGA UGR 2026-2027",
+     "impr": 4943,
+     "clicks": 283,
+     "spend": 32.64
+    }
+   ],
+   "google": [],
+   "tiktok": [
+    {
+     "name": "Phase 1 2026-27",
+     "impr": 3775,
+     "clicks": 187,
+     "spend": 28.74
+    }
+   ]
+  },
+  "d7": {
+   "from": "2026-09-23",
+   "to": "2026-09-29",
+   "meta": [
+    {
+     "name": "FPGA UGR 2026-2027",
+     "impr": 36158,
+     "clicks": 1845,
+     "spend": 222.32
+    }
+   ],
+   "google": [
+    {
+     "name": "FPGA-UG-Youtube-25-26",
+     "impr": 95368,
+     "clicks": 2375,
+     "spend": 408.78
+    },
+    {
+     "name": "FPGA-UGR-2526-Search",
+     "impr": 3578,
+     "clicks": 640,
+     "spend": 252.43
+    }
+   ],
+   "tiktok": [
+    {
+     "name": "Phase 1 2026-27",
+     "impr": 27313,
+     "clicks": 953,
+     "spend": 207.76
+    }
+   ]
+  },
+  "d30": {
+   "from": "2026-08-31",
+   "to": "2026-09-29",
+   "meta": [
+    {
+     "name": "FPGA UGR 2026-2027",
+     "impr": 160038,
+     "clicks": 9099,
+     "spend": 970.0
+    }
+   ],
+   "google": [
+    {
+     "name": "FPGA-UG-Youtube-25-26",
+     "impr": 538801,
+     "clicks": 13266,
+     "spend": 2065.25
+    },
+    {
+     "name": "FPGA-UGR-2526-Search",
+     "impr": 19508,
+     "clicks": 3592,
+     "spend": 1322.05
+    }
+   ],
+   "tiktok": [
+    {
+     "name": "Phase 1 2026-27",
+     "impr": 176633,
+     "clicks": 6315,
+     "spend": 1001.5
+    }
+   ]
+  }
+ },
+ "aud": {
+  "from": "2026-08-31",
+  "to": "2026-09-29",
+  "saved": "2026-09-30T08:34:00-04:00",
+  "c1": [
+   {
+    "name": "Toronto",
+    "impr": 145565,
+    "clicks": 3569,
+    "spend": 570.51
+   },
+   {
+    "name": "Ottawa",
+    "impr": 71123,
+    "clicks": 4404,
+    "spend": 1332.35
+   },
+   {
+    "name": "Brampton",
+    "impr": 41325,
+    "clicks": 1176,
+    "spend": 187.24
+   },
+   {
+    "name": "Mississauga",
+    "impr": 27224,
+    "clicks": 693,
+    "spend": 109.87
+   },
+   {
+    "name": "Hamilton",
+    "impr": 20949,
+    "clicks": 531,
+    "spend": 81.94
+   },
+   {
+    "name": "London",
+    "impr": 18774,
+    "clicks": 502,
+    "spend": 79.2
+   },
+   {
+    "name": "Vaughan",
+    "impr": 11180,
+    "clicks": 285,
+    "spend": 41.13
+   },
+   {
+    "name": "Windsor",
+    "impr": 11087,
+    "clicks": 278,
+    "spend": 49.82
+   },
+   {
+    "name": "Markham",
+    "impr": 10741,
+    "clicks": 251,
+    "spend": 41.12
+   },
+   {
+    "name": "Kitchener",
+    "impr": 9630,
+    "clicks": 263,
+    "spend": 38.78
+   },
+   {
+    "name": "Oshawa",
+    "impr": 7079,
+    "clicks": 169,
+    "spend": 27.84
+   },
+   {
+    "name": "Richmond Hill",
+    "impr": 6158,
+    "clicks": 137,
+    "spend": 22.64
+   },
+   {
+    "name": "Oakville",
+    "impr": 5654,
+    "clicks": 123,
+    "spend": 19.78
+   },
+   {
+    "name": "Milton",
+    "impr": 5614,
+    "clicks": 145,
+    "spend": 20.12
+   },
+   {
+    "name": "Ajax",
+    "impr": 5448,
+    "clicks": 132,
+    "spend": 20.72
+   }
+  ],
+  "gg": [
+   {
+    "name": "Female",
+    "impr": 224335,
+    "clicks": 6882,
+    "spend": 1359.69
+   },
+   {
+    "name": "Male",
+    "impr": 336208,
+    "clicks": 9507,
+    "spend": 1808.99
+   },
+   {
+    "name": "Unknown",
+    "impr": 15185,
+    "clicks": 992,
+    "spend": 323.53
+   }
+  ],
+  "gt": [
+   {
+    "name": "Female",
+    "impr": 105899,
+    "clicks": 3871,
+    "spend": 568.4
+   },
+   {
+    "name": "Male",
+    "impr": 70156,
+    "clicks": 2424,
+    "spend": 428.87
+   },
+   {
+    "name": "Unknown",
+    "impr": 578,
+    "clicks": 20,
+    "spend": 4.23
+   }
+  ],
+  "tot": [
+   {
+    "name": "Ontario",
+    "impr": 575728,
+    "clicks": 17381,
+    "spend": 3492.21
+   }
+  ]
+ }
+}
