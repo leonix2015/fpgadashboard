@@ -1,6 +1,6 @@
 {
  "generated": "2026-09-30T14:33:25-04:00",
- "saved": "2026-09-30T14:33:25-04:00",
+ "saved": "2026-09-30T14:33:46-04:00",
  "source": "Metricool brand 3827890 (spend); Supermetrics Google Ads, TikTok and Meta (audience)",
  "ranges": {
   "yesterday": {
@@ -109,7 +109,7 @@
  "aud": {
   "from": "2026-08-31",
   "to": "2026-09-29",
-  "saved": "2026-09-30T14:32:36-04:00",
+  "saved": "2026-09-30T14:33:46-04:00",
   "c1": [
    {
     "name": "Toronto",
