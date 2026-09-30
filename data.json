@@ -1,7 +1,7 @@
 {
  "generated": "2026-09-30T08:34:00-04:00",
  "saved": "2026-09-30T08:34:00-04:00",
- "source": "Metricool brand 3827890 (spend); Supermetrics Google Ads + TikTok (audience)",
+ "source": "Metricool brand 3827890 (spend); Supermetrics Google Ads, TikTok and Meta (audience)",
  "ranges": {
   "yesterday": {
    "from": "2026-09-29",
@@ -235,6 +235,26 @@
     "impr": 575728,
     "clicks": 17381,
     "spend": 3492.21
+   }
+  ],
+  "gm": [
+   {
+    "name": "Female",
+    "impr": 124190,
+    "clicks": 6886,
+    "spend": 806.61
+   },
+   {
+    "name": "Male",
+    "impr": 32794,
+    "clicks": 886,
+    "spend": 143.91
+   },
+   {
+    "name": "Unknown",
+    "impr": 3068,
+    "clicks": 171,
+    "spend": 19.56
    }
   ]
  }
