@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-30T08:34:00-04:00",
- "saved": "2026-09-30T08:34:00-04:00",
+ "generated": "2026-09-30T14:31:52-04:00",
+ "saved": "2026-09-30T14:32:00-04:00",
  "source": "Metricool brand 3827890 (spend); Supermetrics Google Ads, TikTok and Meta (audience)",
  "ranges": {
   "yesterday": {
@@ -14,7 +14,20 @@
      "spend": 32.64
     }
    ],
-   "google": [],
+   "google": [
+    {
+     "name": "FPGA-UG-Youtube-25-26",
+     "impr": 16604,
+     "clicks": 405,
+     "spend": 63.24
+    },
+    {
+     "name": "FPGA-UGR-2526-Search",
+     "impr": 687,
+     "clicks": 118,
+     "spend": 41.45
+    }
+   ],
    "tiktok": [
     {
      "name": "Phase 1 2026-27",
@@ -38,15 +51,15 @@
    "google": [
     {
      "name": "FPGA-UG-Youtube-25-26",
-     "impr": 95368,
-     "clicks": 2375,
-     "spend": 408.78
+     "impr": 112088,
+     "clicks": 2780,
+     "spend": 472.2
     },
     {
      "name": "FPGA-UGR-2526-Search",
-     "impr": 3578,
-     "clicks": 640,
-     "spend": 252.43
+     "impr": 4265,
+     "clicks": 758,
+     "spend": 293.88
     }
    ],
    "tiktok": [
@@ -72,15 +85,15 @@
    "google": [
     {
      "name": "FPGA-UG-Youtube-25-26",
-     "impr": 538801,
-     "clicks": 13266,
-     "spend": 2065.25
+     "impr": 555521,
+     "clicks": 13671,
+     "spend": 2128.67
     },
     {
      "name": "FPGA-UGR-2526-Search",
-     "impr": 19508,
-     "clicks": 3592,
-     "spend": 1322.05
+     "impr": 20195,
+     "clicks": 3710,
+     "spend": 1363.5
     }
    ],
    "tiktok": [
