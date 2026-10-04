@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-04T07:47:42-04:00",
- "saved": "2026-10-04T07:47:49-04:00",
+ "saved": "2026-10-04T07:48:43-04:00",
  "source": "Metricool brand 3827890 (spend); Supermetrics Google Ads, TikTok and Meta (audience)",
  "ranges": {
   "yesterday": {
@@ -94,167 +94,167 @@
   }
  },
  "aud": {
-  "from": "2026-09-03",
-  "to": "2026-10-02",
-  "saved": "2026-10-03T07:48:49-04:00",
+  "from": "2026-09-04",
+  "to": "2026-10-03",
+  "saved": "2026-10-04T07:48:43-04:00",
   "c1": [
    {
     "name": "Toronto",
-    "impr": 129030,
-    "clicks": 3298,
-    "spend": 559.87
+    "impr": 132933,
+    "clicks": 3411,
+    "spend": 573.74
    },
    {
     "name": "Ottawa",
-    "impr": 65534,
-    "clicks": 4425,
-    "spend": 1316.64
+    "impr": 65933,
+    "clicks": 4398,
+    "spend": 1294.88
    },
    {
     "name": "Brampton",
-    "impr": 36702,
-    "clicks": 1122,
-    "spend": 184.99
+    "impr": 37850,
+    "clicks": 1155,
+    "spend": 190.38
    },
    {
     "name": "Mississauga",
-    "impr": 23889,
-    "clicks": 666,
-    "spend": 110.06
+    "impr": 24645,
+    "clicks": 687,
+    "spend": 113.52
    },
    {
     "name": "Hamilton",
-    "impr": 18558,
-    "clicks": 483,
-    "spend": 80.67
+    "impr": 18992,
+    "clicks": 492,
+    "spend": 82.56
    },
    {
     "name": "London",
-    "impr": 16967,
-    "clicks": 485,
-    "spend": 80.7
-   },
-   {
-    "name": "Windsor",
-    "impr": 9835,
-    "clicks": 273,
-    "spend": 49.89
+    "impr": 17395,
+    "clicks": 496,
+    "spend": 82.5
    },
    {
     "name": "Vaughan",
-    "impr": 9769,
-    "clicks": 266,
-    "spend": 41.05
+    "impr": 10080,
+    "clicks": 272,
+    "spend": 42.33
+   },
+   {
+    "name": "Windsor",
+    "impr": 10079,
+    "clicks": 278,
+    "spend": 51.46
    },
    {
     "name": "Markham",
-    "impr": 9376,
-    "clicks": 238,
-    "spend": 41.12
+    "impr": 9640,
+    "clicks": 241,
+    "spend": 42.14
    },
    {
     "name": "Kitchener",
-    "impr": 8577,
-    "clicks": 244,
-    "spend": 38
+    "impr": 8757,
+    "clicks": 247,
+    "spend": 38.67
    },
    {
     "name": "Oshawa",
-    "impr": 6292,
-    "clicks": 165,
-    "spend": 27.92
+    "impr": 6450,
+    "clicks": 173,
+    "spend": 28.49
    },
    {
     "name": "Richmond Hill",
-    "impr": 5430,
-    "clicks": 127,
-    "spend": 22.41
+    "impr": 5584,
+    "clicks": 133,
+    "spend": 22.97
    },
    {
     "name": "Milton",
-    "impr": 4990,
-    "clicks": 135,
-    "spend": 20.62
-   },
-   {
-    "name": "Ajax",
-    "impr": 4805,
-    "clicks": 123,
-    "spend": 20.69
+    "impr": 5118,
+    "clicks": 139,
+    "spend": 21.14
    },
    {
     "name": "Oakville",
-    "impr": 4798,
-    "clicks": 108,
-    "spend": 19.47
+    "impr": 4943,
+    "clicks": 110,
+    "spend": 19.95
+   },
+   {
+    "name": "Ajax",
+    "impr": 4917,
+    "clicks": 126,
+    "spend": 21.06
    }
   ],
   "gg": [
    {
     "name": "Male",
-    "impr": 298547,
-    "clicks": 9120,
-    "spend": 1795.79
+    "impr": 305560,
+    "clicks": 9320,
+    "spend": 1815.83
    },
    {
     "name": "Female",
-    "impr": 201609,
-    "clicks": 6604,
-    "spend": 1346.87
+    "impr": 207015,
+    "clicks": 6714,
+    "spend": 1354.55
    },
    {
     "name": "Unknown",
-    "impr": 13833,
-    "clicks": 975,
-    "spend": 316.05
+    "impr": 14002,
+    "clicks": 968,
+    "spend": 310.0
    }
   ],
   "gt": [
    {
     "name": "Female",
-    "impr": 96607,
-    "clicks": 3430,
-    "spend": 544.66
+    "impr": 94548,
+    "clicks": 3259,
+    "spend": 539.93
    },
    {
     "name": "Male",
-    "impr": 65540,
-    "clicks": 2198,
-    "spend": 420.15
+    "impr": 65028,
+    "clicks": 2144,
+    "spend": 422.61
    },
    {
     "name": "Unknown",
-    "impr": 535,
-    "clicks": 15,
-    "spend": 4.23
+    "impr": 544,
+    "clicks": 14,
+    "spend": 4.22
    }
   ],
   "gm": [
    {
     "name": "Female",
-    "impr": 122168,
-    "clicks": 6547,
-    "spend": 792.35
+    "impr": 121709,
+    "clicks": 6465,
+    "spend": 789.83
    },
    {
     "name": "Male",
-    "impr": 33297,
-    "clicks": 898,
-    "spend": 145.24
+    "impr": 34640,
+    "clicks": 927,
+    "spend": 150.75
    },
    {
     "name": "Unknown",
-    "impr": 2973,
-    "clicks": 161,
-    "spend": 19.04
+    "impr": 2974,
+    "clicks": 153,
+    "spend": 18.89
    }
   ],
   "tot": [
    {
     "name": "Ontario",
-    "impr": 513989,
-    "clicks": 16699,
-    "spend": 3458.72
+    "impr": 526577,
+    "clicks": 17002,
+    "spend": 3480.38
    }
   ]
  }
