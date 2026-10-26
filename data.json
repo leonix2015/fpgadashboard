@@ -115,6 +115,52 @@
      "spend": 265.81
     }
    ]
+  },
+  "cycle": {
+   "from": "2026-08-11",
+   "to": "2026-10-25",
+   "meta": [
+    {
+     "name": "FPGA UGR 2026-2027 - 2ndPhase",
+     "impr": 67782,
+     "clicks": 61,
+     "spend": 740.88
+    },
+    {
+     "name": "FPGA UGR 2026-2027",
+     "impr": 411700,
+     "clicks": 21766,
+     "spend": 2458.14
+    }
+   ],
+   "google": [
+    {
+     "name": "FPGA-UG-Youtube-25-26",
+     "impr": 1646717,
+     "clicks": 36652,
+     "spend": 5279.06
+    },
+    {
+     "name": "FPGA-UGR-2526-Search",
+     "impr": 45878,
+     "clicks": 7553,
+     "spend": 3348.45
+    }
+   ],
+   "tiktok": [
+    {
+     "name": "Phase 2 2026-2027 Lead Generation",
+     "impr": 191934,
+     "clicks": 65739,
+     "spend": 1149.8
+    },
+    {
+     "name": "Phase 1 2026-27",
+     "impr": 541132,
+     "clicks": 9435,
+     "spend": 1943.32
+    }
+   ]
   }
  },
  "aud": {
