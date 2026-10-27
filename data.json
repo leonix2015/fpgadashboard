@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-27T07:49:38-04:00",
- "saved": "2026-10-27T07:51:04-04:00",
+ "saved": "2026-10-27T09:37:09-04:00",
  "source": "Metricool brand 3827890 (spend); Supermetrics Google Ads, TikTok and Meta (audience)",
  "ranges": {
   "yesterday": {
@@ -823,6 +823,213 @@
      "spend": 3360.12
     }
    ]
+  },
+  "cycle": {
+   "from": "2026-08-11",
+   "to": "2026-10-26",
+   "saved": "2026-10-27T09:37:09-04:00",
+   "c1": [
+    {
+     "name": "Toronto",
+     "impr": 450209,
+     "clicks": 10358,
+     "spend": 1514.46
+    },
+    {
+     "name": "Ottawa",
+     "impr": 182634,
+     "clicks": 9310,
+     "spend": 3185.6
+    },
+    {
+     "name": "Brampton",
+     "impr": 136276,
+     "clicks": 3431,
+     "spend": 513.25
+    },
+    {
+     "name": "Mississauga",
+     "impr": 89310,
+     "clicks": 2037,
+     "spend": 309.53
+    },
+    {
+     "name": "Hamilton",
+     "impr": 65457,
+     "clicks": 1508,
+     "spend": 216.1
+    },
+    {
+     "name": "London",
+     "impr": 56539,
+     "clicks": 1306,
+     "spend": 199.32
+    },
+    {
+     "name": "Vaughan",
+     "impr": 35942,
+     "clicks": 806,
+     "spend": 117.21
+    },
+    {
+     "name": "Markham",
+     "impr": 34540,
+     "clicks": 679,
+     "spend": 103.6
+    },
+    {
+     "name": "Windsor",
+     "impr": 32215,
+     "clicks": 734,
+     "spend": 118.83
+    },
+    {
+     "name": "Kitchener",
+     "impr": 30303,
+     "clicks": 696,
+     "spend": 101.02
+    },
+    {
+     "name": "Oshawa",
+     "impr": 21796,
+     "clicks": 490,
+     "spend": 72.75
+    },
+    {
+     "name": "Richmond Hill",
+     "impr": 18944,
+     "clicks": 402,
+     "spend": 58.71
+    },
+    {
+     "name": "Oakville",
+     "impr": 18825,
+     "clicks": 353,
+     "spend": 55.95
+    },
+    {
+     "name": "Milton",
+     "impr": 17373,
+     "clicks": 390,
+     "spend": 54.45
+    },
+    {
+     "name": "Ajax",
+     "impr": 17360,
+     "clicks": 364,
+     "spend": 53.66
+    }
+   ],
+   "gg": [
+    {
+     "name": "Male",
+     "impr": 986932,
+     "clicks": 24002,
+     "spend": 4424.88
+    },
+    {
+     "name": "Female",
+     "impr": 704905,
+     "clicks": 19070,
+     "spend": 3621.31
+    },
+    {
+     "name": "Unknown",
+     "impr": 40032,
+     "clicks": 2116,
+     "spend": 767.12
+    }
+   ],
+   "gt": [
+    {
+     "name": "Female",
+     "impr": 450586,
+     "clicks": 49447,
+     "spend": 1890.23
+    },
+    {
+     "name": "Male",
+     "impr": 288096,
+     "clicks": 27977,
+     "spend": 1232.82
+    },
+    {
+     "name": "Unknown",
+     "impr": 4081,
+     "clicks": 879,
+     "spend": 25.32
+    }
+   ],
+   "gm": [
+    {
+     "name": "Female",
+     "impr": 310074,
+     "clicks": 13376,
+     "spend": 2236.29
+    },
+    {
+     "name": "Male",
+     "impr": 169291,
+     "clicks": 5034,
+     "spend": 973.84
+    },
+    {
+     "name": "Unknown",
+     "impr": 8182,
+     "clicks": 373,
+     "spend": 54.93
+    }
+   ],
+   "tot": [
+    {
+     "name": "Ontario",
+     "impr": 1731869,
+     "clicks": 45188,
+     "spend": 8813.31
+    }
+   ]
   }
+ },
+ "preTrack": {
+  "note": "Weekly ad spend before site tracking (Metricool, all platforms). Used to shape the estimated daily visits on Since launch. Past data, does not change.",
+  "from": "2026-08-11",
+  "to": "2026-09-26",
+  "weeks": [
+   {
+    "from": "2026-08-11",
+    "to": "2026-08-17",
+    "spend": 1358.97
+   },
+   {
+    "from": "2026-08-18",
+    "to": "2026-08-24",
+    "spend": 1304.06
+   },
+   {
+    "from": "2026-08-25",
+    "to": "2026-08-31",
+    "spend": 1242.82
+   },
+   {
+    "from": "2026-09-01",
+    "to": "2026-09-07",
+    "spend": 1321.46
+   },
+   {
+    "from": "2026-09-08",
+    "to": "2026-09-14",
+    "spend": 1326.76
+   },
+   {
+    "from": "2026-09-15",
+    "to": "2026-09-21",
+    "spend": 1252.66
+   },
+   {
+    "from": "2026-09-22",
+    "to": "2026-09-26",
+    "spend": 872.62
+   }
+  ]
  }
 }
