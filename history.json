@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T07:56:22-05:00",
+  "updatedAt": "2026-11-09T07:50:45-05:00",
   "snapshots": [
     {
       "weekEnding": "2026-10-11",
@@ -207,6 +207,58 @@
           "clicks": 26263,
           "cpc": 0.0578,
           "ctr": 10.9592
+        }
+      }
+    },
+    {
+      "weekEnding": "2026-11-08",
+      "range": {
+        "from": "2026-11-02",
+        "to": "2026-11-08"
+      },
+      "capturedAt": "2026-11-09T07:50:45-05:00",
+      "platforms": {
+        "meta": {
+          "spend": 466.8,
+          "impressions": 81381,
+          "clicks": 1647,
+          "cpc": 0.2834,
+          "ctr": 2.0238
+        },
+        "search": {
+          "spend": 252.88,
+          "impressions": 2645,
+          "clicks": 378,
+          "cpc": 0.669,
+          "ctr": 14.2911
+        },
+        "youtube": {
+          "spend": 441.02,
+          "impressions": 124087,
+          "clicks": 1630,
+          "cpc": 0.2706,
+          "ctr": 1.3136
+        },
+        "googleTotal": {
+          "spend": 693.9,
+          "impressions": 126732,
+          "clicks": 2008,
+          "cpc": 0.3456,
+          "ctr": 1.5844
+        },
+        "tiktok": {
+          "spend": 412.58,
+          "impressions": 65856,
+          "clicks": 21225,
+          "cpc": 0.0194,
+          "ctr": 32.2294
+        },
+        "all": {
+          "spend": 1573.28,
+          "impressions": 273969,
+          "clicks": 24880,
+          "cpc": 0.0632,
+          "ctr": 9.0813
         }
       }
     }
