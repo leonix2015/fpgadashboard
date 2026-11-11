@@ -1,152 +1,176 @@
 {
- "generated": "2026-11-10T07:48:30-05:00",
- "saved": "2026-11-10T07:50:02-05:00",
+ "generated": "2026-11-11T07:48:16-05:00",
+ "saved": "2026-11-11T07:48:21-05:00",
  "source": "Metricool brand 3827890 (spend); Supermetrics Google Ads, TikTok and Meta (audience)",
  "ranges": {
   "yesterday": {
-   "from": "2026-11-09",
-   "to": "2026-11-09",
+   "from": "2026-11-10",
+   "to": "2026-11-10",
    "meta": [
     {
      "name": "FPGA UGR 2026-2027 - 2ndPhase",
-     "impr": 4338,
-     "clicks": 6,
-     "spend": 40.48
+     "impr": 2356,
+     "clicks": 5,
+     "spend": 20.68
     },
     {
      "name": "FPGA UGR 2026-2027",
-     "impr": 6490,
-     "clicks": 350,
-     "spend": 35.88
+     "impr": 8824,
+     "clicks": 599,
+     "spend": 47.1
     }
    ],
    "google": [],
    "tiktok": [
     {
+     "name": "Phase 2 2026-27 TikTok-only (Intent)",
+     "impr": 56869,
+     "clicks": 332,
+     "spend": 44.59
+    },
+    {
      "name": "Phase 2 2026-2027 Lead Generation",
-     "impr": 9316,
-     "clicks": 3316,
-     "spend": 67.21
+     "impr": 1576,
+     "clicks": 536,
+     "spend": 10.05
     }
    ]
   },
   "d7": {
-   "from": "2026-11-03",
-   "to": "2026-11-09",
+   "from": "2026-11-04",
+   "to": "2026-11-10",
    "meta": [
     {
      "name": "FPGA UGR 2026-2027 - 2ndPhase",
-     "impr": 27052,
-     "clicks": 29,
-     "spend": 247.98
+     "impr": 27143,
+     "clicks": 33,
+     "spend": 247.05
     },
     {
      "name": "FPGA UGR 2026-2027",
-     "impr": 53839,
-     "clicks": 1619,
-     "spend": 219.97
+     "impr": 57828,
+     "clicks": 1961,
+     "spend": 241.61
     }
    ],
    "google": [
     {
      "name": "FPGA-UG-Youtube-25-26",
-     "impr": 126494,
-     "clicks": 1544,
-     "spend": 442.59
+     "impr": 119479,
+     "clicks": 1540,
+     "spend": 441.45
     },
     {
      "name": "FPGA-UGR-2526-Search",
-     "impr": 2583,
-     "clicks": 339,
-     "spend": 268.61
+     "impr": 2941,
+     "clicks": 319,
+     "spend": 290.39
     }
    ],
    "tiktok": [
     {
+     "name": "Phase 2 2026-27 TikTok-only (Intent)",
+     "impr": 56869,
+     "clicks": 332,
+     "spend": 44.59
+    },
+    {
      "name": "Phase 2 2026-2027 Lead Generation",
-     "impr": 65306,
-     "clicks": 21605,
-     "spend": 423.35
+     "impr": 53841,
+     "clicks": 18339,
+     "spend": 357.8
     }
    ]
   },
   "d30": {
-   "from": "2026-10-11",
-   "to": "2026-11-09",
+   "from": "2026-10-12",
+   "to": "2026-11-10",
    "meta": [
     {
      "name": "FPGA UGR 2026-2027 - 2ndPhase",
-     "impr": 109936,
-     "clicks": 102,
-     "spend": 1090.03
+     "impr": 109353,
+     "clicks": 107,
+     "spend": 1073.46
     },
     {
      "name": "FPGA UGR 2026-2027",
-     "impr": 181650,
-     "clicks": 8197,
-     "spend": 989.92
+     "impr": 184667,
+     "clicks": 8559,
+     "spend": 1004.31
     }
    ],
    "google": [
     {
      "name": "FPGA-UG-Youtube-25-26",
-     "impr": 548908,
-     "clicks": 10821,
-     "spend": 2005.78
+     "impr": 545602,
+     "clicks": 10659,
+     "spend": 2007.35
     },
     {
      "name": "FPGA-UGR-2526-Search",
-     "impr": 16381,
-     "clicks": 2265,
-     "spend": 1271.19
+     "impr": 16797,
+     "clicks": 2263,
+     "spend": 1306.49
     }
    ],
    "tiktok": [
     {
+     "name": "Phase 2 2026-27 TikTok-only (Intent)",
+     "impr": 56869,
+     "clicks": 332,
+     "spend": 44.59
+    },
+    {
      "name": "Phase 2 2026-2027 Lead Generation",
-     "impr": 284664,
-     "clicks": 94467,
-     "spend": 1720.58
+     "impr": 276663,
+     "clicks": 91437,
+     "spend": 1672.08
     }
    ]
   },
   "cycle": {
    "from": "2026-08-11",
-   "to": "2026-11-09",
+   "to": "2026-11-10",
    "meta": [
     {
      "name": "FPGA UGR 2026-2027 - 2ndPhase",
-     "impr": 126071,
-     "clicks": 116,
-     "spend": 1284.29
+     "impr": 128427,
+     "clicks": 121,
+     "spend": 1304.97
     },
     {
      "name": "FPGA UGR 2026-2027",
-     "impr": 513370,
-     "clicks": 26393,
-     "spend": 2951.6
+     "impr": 522201,
+     "clicks": 26992,
+     "spend": 2998.77
     }
    ],
    "google": [
     {
      "name": "FPGA-UG-Youtube-25-26",
-     "impr": 1935076,
-     "clicks": 41671,
-     "spend": 6315.68
+     "impr": 1950516,
+     "clicks": 41914,
+     "spend": 6388.8
     },
     {
      "name": "FPGA-UGR-2526-Search",
-     "impr": 53130,
-     "clicks": 8547,
-     "spend": 3986.16
+     "impr": 53943,
+     "clicks": 8596,
+     "spend": 4048.14
     }
    ],
    "tiktok": [
     {
+     "name": "Phase 2 2026-27 TikTok-only (Intent)",
+     "impr": 56869,
+     "clicks": 332,
+     "spend": 44.59
+    },
+    {
      "name": "Phase 2 2026-2027 Lead Generation",
-     "impr": 333227,
-     "clicks": 111189,
-     "spend": 2022.33
+     "impr": 334801,
+     "clicks": 111726,
+     "spend": 2032.38
     },
     {
      "name": "Phase 1 2026-27",
